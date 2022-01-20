@@ -8661,7 +8661,7 @@ WAKTU        : ${time2}
 
             }
 
-              gopeynya = `Halo Kak ${pushname} Berikut List Sewa Bot by RIFQII STORE 
+              gopeynya = `Halo Kak ${pushname} Berikut List Sewa Bot by DWI STORE 
 
   
 
